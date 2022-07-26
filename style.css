@@ -1,0 +1,33 @@
+body
+{
+    background-color: mediumslateblue;
+}
+
+#score_span
+{
+    font-size: 40px;
+    float: left;
+    margin-left: 100px;
+}
+
+#time_span
+{
+    font-size: 40px;
+    float: right;
+    margin-right: 100px;
+}
+
+#to_draw
+{
+    font-size: 25px;
+}
+
+#sketch
+{
+    font-size: 25px;
+}
+
+#confidence
+{
+    font-size: 25px;
+}
